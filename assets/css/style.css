@@ -8,7 +8,7 @@ header {max-width: 500px}
 /* MAIN */
 
 /* ELEMENTI NEL MAIN - ARTICLE */
-ul{list-style-type: none;}
+
 /* TABELLE */
 
 /* FORM */
@@ -33,21 +33,67 @@ header {max-width: 80%;
 margin-left: auto;
 margin-right: auto;
 background-color: lightskyblue;
-color: whitesmoke;
+color: white;
+margin: 30px;
+box-shadow: -4px 7px 15px -1px rgba(0,0,0,0.83); 
+box-shadow: -4px 7px 15px -1px rgba(0,0,0,0.83);
 }
 #logo {
     display: block;
+padding-top:10px; 
+
     width: 500px;
-    width: 100px;
-    margin: 5px;
+    width: 130px;
 margin-left: auto; 
 margin-right: auto;}
 p{font-size:}
 
 header p {font-size: 0.5em;
 text-align: center;
-margin: 10px}
+margin: 20px;
+font-size: 1.5em;}
 
 ul{text-align: center;
 margin-bottom: 10px;
-padding: 10px;}
+padding: 10px;
+list-style-type: none;
+}
+main {background-color: white;
+margin-left: auto;
+margin-right: auto;
+max-width: 80%;
+width: 80%;
+margin: 30px;
+box-shadow: -4px 7px 15px -1px rgba(0,0,0,0.83); 
+box-shadow: -4px 7px 15px -1px rgba(0,0,0,0.83);}
+
+h1 {font-size: 3em;
+margin: 20px;
+padding-top:10px; 
+font-weight: bold;}
+
+
+#autore {
+    text-align: center;
+    margin-left: 30px;margin-right: 30px;
+color: grey;}
+
+article p {margin-left: 30px;
+margin-right: 30px;}
+
+
+
+
+
+
+
+
+
+table{margin-left: auto; margin-right: auto;}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jod3{background-color:#125ee4;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
