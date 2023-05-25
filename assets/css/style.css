@@ -97,3 +97,10 @@ table{margin-left: auto; margin-right: auto;}
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-jod3{background-color:#125ee4;border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+
+
+
+iframe { 
+    margin: 30px;
+    width: 300px;
+    max-width: 300px;}
